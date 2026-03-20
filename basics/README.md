@@ -1,1 +1,1 @@
-This directory contains shell basics tasks.
+This directory contains basic shell commands and scripts.
