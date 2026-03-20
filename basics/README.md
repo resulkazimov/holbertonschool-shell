@@ -1,1 +1,1 @@
-This directory contains shell basics tasks. Task 12: Printing the type of a file.
+This directory contains shell basics tasks. Task 13: Creating a symbolic link.
