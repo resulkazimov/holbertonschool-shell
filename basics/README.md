@@ -1,1 +1,1 @@
-This directory contains shell basics tasks. Task 8: Deleting files.
+This directory contains shell basics tasks. Task 9: Deleting a directory.
