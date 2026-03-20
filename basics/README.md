@@ -1,1 +1,1 @@
-This directory contains shell basics tasks. Task 13: Creating a symbolic link.
+This directory contains shell basics tasks. Task 14: Copying HTML files conditionally.
