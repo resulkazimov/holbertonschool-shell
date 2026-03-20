@@ -1,1 +1,1 @@
-Shell Basics - Task 15: Move files starting with uppercase
+Shell Basics - Task 16: Delete files ending with ~ (Emacs temporary files)
