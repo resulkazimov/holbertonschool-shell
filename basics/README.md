@@ -1,1 +1,1 @@
-This directory contains shell basics tasks. Task 7: Moving files.
+This directory contains shell basics tasks. Task 8: Deleting files.
