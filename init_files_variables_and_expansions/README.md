@@ -8,3 +8,4 @@
 * 10-love_exponent_breath: A script that displays the result of BREATH to the power LOVE.
 * 11-binary_to_decimal: A script that converts a binary number to decimal.
 * 12-combinations: Prints all possible combinations of two letters, except oo.
+* 13-print_float: A script that prints a number with two decimal places.
