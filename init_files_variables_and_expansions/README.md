@@ -1,2 +1,3 @@
 0-alias: A script that creates an alias 'ls' to 'rm -f *'
 * 1-hello_you: A script that prints hello user, where user is the current Linux user.
+* 2-path: Add /action to the end of the PATH variable.
