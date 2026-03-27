@@ -3,3 +3,4 @@
 * 5-local_variables: A script that lists all local and environment variables, and functions.
 * 6-create_local_variable: A script that creates a local variable BEST with the value School.
 * 7-create_global_variable: A script that creates a global variable BEST with the value School.
+* 8-true_knowledge: A script that prints the result of adding 128 to the variable TRUEKNOWLEDGE.
