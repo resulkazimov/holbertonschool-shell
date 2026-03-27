@@ -9,3 +9,4 @@
 * 11-binary_to_decimal: A script that converts a binary number to decimal.
 * 12-combinations: Prints all possible combinations of two letters, except oo.
 * 13-print_float: A script that prints a number with two decimal places.
+* 14-decimal_to_hexadecimal: A script that converts a decimal number to hexadecimal.
